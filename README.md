@@ -6,5 +6,5 @@
 * داخل السكربت فيه معلومات اضافية وحل للثغرة أفضل من حلّي.
 
   ## Credits
-  Fibonacci - Enhancing the original code
-  JBleezy - The BO1-Reimagined builder and developer, his script is more better than mine, along with more 'checks' and an overall better solution
+  * Fibonacci - Enhancing the original code
+  * JBleezy - The BO1-Reimagined builder and developer, his script is more better than mine, along with more 'checks' and an overall better solution
